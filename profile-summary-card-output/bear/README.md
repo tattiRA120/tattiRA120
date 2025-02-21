@@ -25,16 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/tattiRA120/tattiRA120/master/profile-summary-card-output/bear/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
